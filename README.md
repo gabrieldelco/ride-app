@@ -19,7 +19,7 @@ Mobile first application developed with bootstrap, and vanilla javascript. This 
 
 ### Getting Started (ngrok)
 
-Since its an applicaiton for rides, you will not be able to test all of its features on your regular computer, unless you are running in a macOS. If you are running a macOS, you will be well served using the OS mobile simulators. Otherwise, I recommend hosting the local application in **ngrok**. The geolocation object methods require a HTTPS connection, and ngrok can easily it. In this way, you will be able to run the application in your mobile device. Follow the instructions:
+Since its an applicaiton for rides, you will not be able to test all of its features on your regular computer, unless you are running in a macOS. If you are running a macOS, you will be well served using the OS mobile simulators. Otherwise, I recommend hosting the local application in **ngrok**. The geolocation object methods require a HTTPS connection, and ngrok can easily provide it. In this way, you will be able to run the application in your mobile device. Follow the instructions:
 
 1. Sign up for free at [ngrok](https://ngrok.com/).
 2. Get your authtoken, or generate one.
